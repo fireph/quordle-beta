@@ -4,4 +4,4 @@
 
 Put your skills to the test and solve four Wordles at once! You have 9 guesses to solve all four words. A new Quordle available each day to solve.
 
-Play at beta.quordle.com
+Play at [beta.quordle.com](https://beta.quordle.com)
